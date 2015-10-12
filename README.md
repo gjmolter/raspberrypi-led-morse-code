@@ -1,5 +1,5 @@
 # GJMRaspberryPiLEDBlink
-Blink a LED light using Raspberry Pi's GPIO
+Convert text to Morse Code and Blink a LED light using Raspberry Pi's GPIO
 
 #### CRAFTING THE CIRCUIT
 To craft the circuit you will need 
