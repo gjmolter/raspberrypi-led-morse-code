@@ -1,10 +1,10 @@
 # GJMRaspberryPiLEDBlink
-Convert text to Morse Code and Blink a LED light using Raspberry Pi's GPIO
+Convert text to Morse Code and blink a LED light using Raspberry Pi's GPIO
 
 #### CRAFTING THE CIRCUIT
-To craft the circuit you will need 
+To build the circuit you will need 
 - 2 Jumper Cables
-- 1 BreadBoard (Maybe you can use duct tape)
+- 1 BreadBoard (You can use duct tape instead)
 - 1 220 ohms resistor
 - 1 LED
 
@@ -16,6 +16,6 @@ If you don't have a breadboard, just ducktape everything.
 
 #### HOW TO RUN IT
 Just run the `ledblinkRaspberry.py` file with superuser privileges (admin).
-(You obviouly need to have Python installed).
+(You obviously need to have Python installed).
 
 ![GPIO MAP](http://2.bp.blogspot.com/-fLqGQ-E-EXA/UD0XdnCVOrI/AAAAAAAAAF8/c19SPUGftjU/s1600/Raspberry-Pi-GPIO-Layout.png)
