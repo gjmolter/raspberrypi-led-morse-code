@@ -1,4 +1,4 @@
-# GJMRPiMorseCodeLEDBlink
+# GM_RPiMorseCodeLEDBlink
 Convert text to Morse Code and blink a LED light using Raspberry Pi's GPIO
 
 #### CRAFTING THE CIRCUIT
