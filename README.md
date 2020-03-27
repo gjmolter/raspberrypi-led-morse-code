@@ -15,7 +15,7 @@ Electricity Path:
 
 Pin 18 (GPIO 24) → Jumper → BreadBoard → Resistor → LED → Breadboard → Jumper → Pin 6 (Ground)
 
-If you don't have a breadboard, just ducktape everything.
+If you don't have a breadboard, you should be fine taping everything.
 
 #### HOW TO RUN IT
 Just run the `ledblinkRaspberry.py` file with superuser privileges (root).
