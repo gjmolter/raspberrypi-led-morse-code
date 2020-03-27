@@ -348,6 +348,6 @@ for char in string:
     else:
         print ("Could not Morsefy this character '%s'") % (char)
         
-print "Starting message end transmission"
+print "Finishing transmission"
 wordSpacing()
 messageEnd()
