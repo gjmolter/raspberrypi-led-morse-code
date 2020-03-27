@@ -18,7 +18,7 @@ Pin 18 (GPIO 24) → Jumper → BreadBoard → Resistor → LED → Breadboard �
 If you don't have a breadboard, just ducktape everything.
 
 #### HOW TO RUN IT
-Just run the `ledblinkRaspberry.py` file with superuser privileges (admin).
+Just run the `ledblinkRaspberry.py` file with superuser privileges (root).
 (You obviously need to have Python installed).
 
 ![GPIO MAP](http://2.bp.blogspot.com/-fLqGQ-E-EXA/UD0XdnCVOrI/AAAAAAAAAF8/c19SPUGftjU/s1600/Raspberry-Pi-GPIO-Layout.png)
