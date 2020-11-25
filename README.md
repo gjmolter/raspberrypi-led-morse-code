@@ -1,4 +1,4 @@
-# GM_RPiMorseCodeLEDBlink
+# Raspberry Pi LED Morse Code
 Python script that converts text to Morse Code and blink a LED light using Raspberry Pi's GPIO
 
 #### Just a small project I've created as a Python exercise. ####
@@ -7,7 +7,6 @@ Python script that converts text to Morse Code and blink a LED light using Raspb
 #### CRAFTING THE CIRCUIT
 To build the circuit you will need 
 - 2 Jumper Cables
-- 1 BreadBoard (You can use duct tape instead)
 - 1 220 ohms resistor
 - 1 LED
 
